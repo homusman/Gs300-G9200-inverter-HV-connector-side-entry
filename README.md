@@ -1,4 +1,4 @@
-Cover for G9200-XXXX inverters which suit L210 transmission
+Cover for G9270-XXXX inverters which suit L210 transmission
 Suits lugs up to 35mm^2 but will require grinding off part of the lug on the right hand side (+) port due to limited clearance.
 This connector is:
 - Side exit, cables routed towards the coolant inlets.
